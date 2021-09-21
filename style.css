@@ -34,7 +34,7 @@ h1:before
     background: linear-gradient(90deg,transparent 0%, #000 5%, #000 
         100%);
         animation:animate 5s linear forwards;
-        animation-delay: 1s;
+        animation-delay: 0.5s;
 }
 @keyframes animate{
     0%{
